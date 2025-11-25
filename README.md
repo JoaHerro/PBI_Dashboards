@@ -36,3 +36,26 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 - UX/UI dashboard design  
 
 [**View Full Project 1 Details**](/Data_jobs_v1/)
+
+
+## Data Jobs Dashboard (V2 – Skills & Salary Insights)
+
+![Data_Jobs_Dashboard](/Images/Data_jobs_dashboard.PNG)
+
+This version of the dashboard focuses on two core questions in the modern data job market:
+
+- **What are the most in-demand skills?**  
+- **Which data roles earn the highest salaries?**
+
+With interactive slicers for **Job Title** and **Country**, this dashboard allows users to dynamically explore job demand, required skills, and compensation across different regions and roles.
+
+
+## 🛠️ Tools & Skills Used
+- Power BI Desktop  
+- Data cleaning & transformation (Power Query)  
+- Data modeling & relationships  
+- DAX measures and KPIs  
+- Custom visuals & formatting  
+- Interactive slicers and UX/UI design  
+
+[**View Full Project 2 Details**](/Data_jobs_v2/)
