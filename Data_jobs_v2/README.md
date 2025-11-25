@@ -33,8 +33,7 @@ A horizontal bar chart ranks the most frequently requested skills in data job po
 - AWS & Azure  
 - Tableau, Power BI  
 - Spark, R  
-- Java, Databricks, Snowflake  
-- And more…
+- Java, Databricks, Snowflake 
 
 This visual highlights the technologies and tools most valued in the job market.
 
